@@ -26,7 +26,7 @@ _Disini hanya berisi dokumentasi dan hasil ekperiment (Model siap pakai)_
 ---   
 <footer>
 
-  &copy;  2025 • [Dokumentasi](Dokumentasi.md) • Fransis96 • [MIT License](LICENSE)
+  &copy;  2025  &bull; [Dokumentasi](Dokumentasi.md) &bull; Fransis96 &bull; [MIT License](LICENSE)
   
 </footer>
 
