@@ -24,5 +24,9 @@ _Disini hanya berisi dokumentasi dan hasil ekperiment (Model siap pakai)_
 3. Tigas
 
 ---   
+<footer>
 
-&copy 2025 • Dukumentasi • Fransis96 • [MIT License](LICENSE)
+  &copy; 2025 • [Dokumentasi](Dokumentasi.md) • Fransis96 • [MIT License](LICENSE)
+  
+</footer>
+
