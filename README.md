@@ -25,4 +25,4 @@ _Disini hanya berisi dokumentasi dan hasil ekperiment (Model siap pakai)_
 
 ---   
 
-(c) 2025 • Dukumentasi • Fransis96 • [MIT License](LICENSE)
+&copy 2025 • Dukumentasi • Fransis96 • [MIT License](LICENSE)
